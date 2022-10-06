@@ -32,15 +32,6 @@
   <a href="https://discord.gg/yeQv8SZj" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href = "mailto:contato@gilbert.dev.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/oliveira-gilbert/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-<!-- Meu GitHub -->
- <div>
-  <a href="https://github.com/gilbert-oliveira">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gilbert-oliveira&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilbert-oliveira&layout=compact&langs_count=16&theme=gotham"/>
-</div>
-  
   
  ![Snake animation](https://github.com/gilbert-oliveira/gilbert-oliveira/blob/output/github-contribution-grid-snake.svg)
 </div>
