@@ -24,14 +24,9 @@
     <img src="https://komarev.com/ghpvc/?username=gilbert-oliveira">
   </a>
 </div>
+
+#### Contato!
+![Blue Modern Corporate Computer and Technology Linkedin Banner](https://user-images.githubusercontent.com/64768845/194708147-49068ddc-4880-4631-98e9-62bce7eb31df.png)
   
-#### Redes Sociais!
-<div> 
-  
-  <a href="https://www.instagram.com/borges_gilbert" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/yeQv8SZj" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contato@gilbert.dev.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/oliveira-gilbert/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
- ![Snake animation](https://github.com/gilbert-oliveira/gilbert-oliveira/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/gilbert-oliveira/gilbert-oliveira/blob/output/github-contribution-grid-snake.svg) -->
 </div>
