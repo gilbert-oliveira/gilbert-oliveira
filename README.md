@@ -1,32 +1,26 @@
-<!-- Quem eu sou? -->
-## Olá! Eu sou o Gilbert Oliveira
-* Graduando em análise e desenvolvimento de sistemas!
-* Cursado desenvolvimento web full-stack!
-* Apaixonado por tecnologia e informação!
-* Praticante de xadrez!
+![Contato](https://user-images.githubusercontent.com/64768845/194708147-49068ddc-4880-4631-98e9-62bce7eb31df.png)
+
+## 🧑🏻‍💻 Quem sou eu
+Olá! Meu nome é Gilbert Oliveira. Sou estudante de Análise e Desenvolimento de sistemas pela [Multivix](https://multivix.edu.br/), desenvolvedor Web Full Stack na [Móveis Simonetti](https://simonetti.com.br/) e freelancer na [Codarme](https://github.com/codarmedev/).
+
+Sou apaixonado por técnologia e segurança da informação! Curto séries e filmes de ficção científica e ação. Também sou apaixonado por jogos de raciocínio lógico específicamente xadrez ♔♕.
 
 
-<!-- Minhas skil's -->
-### Linguagens e ferramentas!
-<div style="display: inline_block">
- <img align="center" alt="Gilbert-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
- <img align="center" alt="Gilbert-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg">
-  <img align="center" alt="Gilbert-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg">
-  <img align="center" alt="Gilbert-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="center" alt="Gilbert-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg">
-  <!-- <img align="center" alt="Gilbert-JQuery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg"> -->
-    <!--  <img align="center" alt="Gilbert-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"> -->
-    <!-- <img align="center" alt="Gilbert-MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"> -->
-    <!-- <img align="center" alt="Gilbert-Composer" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/composer/composer-original.svg"> -->
-<!-- <img align="center" alt="Gilbert-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
- &nbsp;
-  <a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=gilbert-oliveira">
-  </a>
-</div> -->
+## 💻 Tecnologias que estou utilizando mais no momento
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![MySQL](https://img.shields.io/badge/MySQL-FFC500?style=for-the-badge&logo=mysql&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC644?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-### Contato 
- ![Blue Modern Corporate Computer and Technology Linkedin Banner](https://user-images.githubusercontent.com/64768845/194708147-49068ddc-4880-4631-98e9-62bce7eb31df.png)
-  
-<!-- ![Snake animation](https://github.com/gilbert-oliveira/gilbert-oliveira/blob/output/github-contribution-grid-snake.svg) -->
-</div>
+## 📦 O que você vai encontrar no meu github
+Alguns projetos que não sejam para empresas privadas, códigos aleatórios, alguns trabalhos de faculdade, projetos open sources que possivelmente estou criando ou colaborando.
