@@ -1,7 +1,7 @@
 ![Contato](https://user-images.githubusercontent.com/64768845/194708147-49068ddc-4880-4631-98e9-62bce7eb31df.png)
 
 ## 🧑🏻‍💻 Quem sou eu
-Olá! Meu nome é Gilbert Oliveira. Sou estudante de Análise e Desenvolimento de sistemas pela [Multivix](https://multivix.edu.br/), desenvolvedor Web Full Stack na [Móveis Simonetti](https://simonetti.com.br/) e freelancer na [Codarme](https://github.com/codarmedev/).
+Olá! Meu nome é Gilbert Oliveira. Sou desenvolvedor Web Full Stack na [Móveis Simonetti](https://simonetti.com.br/) e CEO na [Codarme](https://github.com/codarmedev/).
 
 Sou apaixonado por técnologia e segurança da informação! Curto séries e filmes de ficção científica e ação. Também sou apaixonado por jogos de raciocínio lógico específicamente xadrez ♔♕.
 
@@ -22,6 +22,3 @@ Sou apaixonado por técnologia e segurança da informação! Curto séries e fil
 ![Linux](https://img.shields.io/badge/Linux-FCC644?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-## 📦 O que você vai encontrar no meu github
-Alguns projetos que não sejam para empresas privadas, códigos aleatórios, alguns trabalhos de faculdade, projetos open sources que possivelmente estou criando ou colaborando.
