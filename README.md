@@ -1,7 +1,7 @@
 ![Contato](https://user-images.githubusercontent.com/64768845/194708147-49068ddc-4880-4631-98e9-62bce7eb31df.png)
 
 ## 🧑🏻‍💻 Quem sou eu
-Olá! Meu nome é Gilbert Oliveira. Sou desenvolvedor Web Full Stack na [Móveis Simonetti](https://simonetti.com.br/) e CEO na [Codarme](https://github.com/codarmedev/).
+Olá! Meu nome é Gilbert Oliveira. Sou desenvolvedor Web Full Stack na [Móveis Simonetti](https://simonetti.com.br/) e CO Founder na [Codarme](https://github.com/codarmedev/).
 
 Sou apaixonado por técnologia e segurança da informação! Curto séries e filmes de ficção científica e ação. Também sou apaixonado por jogos de raciocínio lógico específicamente xadrez ♔♕.
 
