@@ -6,7 +6,7 @@ Olá! Meu nome é Gilbert Oliveira. Sou desenvolvedor Web Full Stack na [@Móvei
 Sou apaixonado por técnologia e segurança da informação! Curto séries e filmes de ficção científica e ação. Também sou apaixonado por jogos de raciocínio lógico específicamente xadrez ♔♕.
 
 
-## 💻 Tecnologias que estou utilizando mais no momento
+## 💻 Tecnologias que mais estou utilizando no momento
 ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
