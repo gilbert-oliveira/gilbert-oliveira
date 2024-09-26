@@ -16,3 +16,7 @@ Sou apaixonado por técnologia e segurança da informação! Curto séries e fil
 ![Linux](https://img.shields.io/badge/Linux-344f3b?style=for-the-badge&logo=linux&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+<div align="center">
+  <a href="https://app.rocketseat.com.br/me/gilbert"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=gilbert&type=card" width="250" alt="Gilbert de Oliveira Santos's Rocket ID"/></a>
+</div>
